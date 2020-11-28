@@ -1,0 +1,35 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.corporate-image{
+  width: 10em;
+}
+#navbarMenu{
+  background-color: #880000;
+  position: fixed;	
+  top:0px;
+  right:0px;
+  width: 12em;
+  height: 100%;
+  font-size: 1em;
+}
+
+#navbarMenuLink{
+  position: fixed;
+  top:0.5em;
+  right: 1em;
+  color: #880000;
+  font-size: 2em;
+}
+
+.navbarMenu-item{
+  border-bottom: white 1px solid;
+  padding: 10% 0 10% 10%;
+  
+}
+
+.menu-link{
+  color: white;
+}
